@@ -1,0 +1,2 @@
+Refit_Timestamp,Ticker,Asset,Trigger,Previous_Training_Through,New_Training_Through,New_Observations_Used,Refit_Interval,GARCH_Selected_Model,GARCH_p,GARCH_q,GARCH_Distribution,RF_N_Estimators,RF_Max_Depth,RF_Min_Samples_Leaf,RF_Max_Features,LSTM_Lookback,LSTM_Units,LSTM_Epochs,GARCH_Success,RF_Success,LSTM_Success,Scaler_Success
+2026-08-25T22:03:09.229547-04:00,AAPL,Apple,Forced,2026-07-31,2026-08-25,17,63,"GARCH(1,2)-Student-t",1,2,t,500,10,1,0.5,63,32,18,True,True,True,True

@@ -1,0 +1,8 @@
+Ticker,Asset,GARCH_Converged,GARCH_Forecast_Positive,RF_Save_Load_Match,LSTM_Save_Load_Match,LSTM_Scaler_Save_Load_Match
+AAPL,Apple,True,True,True,True,True
+JNJ,Johnson & Johnson,True,True,True,True,True
+JPM,JPMorgan Chase,True,True,True,True,True
+TSLA,Tesla,True,True,True,True,True
+WMT,Walmart,True,True,True,True,True
+XOM,Exxon Mobil,True,True,True,True,True
+^GSPC,S&P 500,True,True,True,True,True

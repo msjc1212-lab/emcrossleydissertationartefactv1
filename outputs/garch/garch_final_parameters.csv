@@ -1,0 +1,45 @@
+Ticker,Asset,Model,Parameter,Estimate
+AAPL,Apple,"GARCH(1,2)-Student-t",mu,0.141948026943842
+AAPL,Apple,"GARCH(1,2)-Student-t",omega,0.11810075391480795
+AAPL,Apple,"GARCH(1,2)-Student-t",alpha[1],0.11987347278522446
+AAPL,Apple,"GARCH(1,2)-Student-t",beta[1],0.5174597337229323
+AAPL,Apple,"GARCH(1,2)-Student-t",beta[2],0.33038402526190613
+AAPL,Apple,"GARCH(1,2)-Student-t",nu,4.826097185869345
+AAPL,Apple,"GARCH(1,2)-Student-t",Persistence,0.9677172317700629
+JNJ,Johnson & Johnson,"GARCH(1,2)-Normal",mu,0.0467986753739368
+JNJ,Johnson & Johnson,"GARCH(1,2)-Normal",omega,0.07382011665427785
+JNJ,Johnson & Johnson,"GARCH(1,2)-Normal",alpha[1],0.11924980950166392
+JNJ,Johnson & Johnson,"GARCH(1,2)-Normal",beta[1],0.2840480171766942
+JNJ,Johnson & Johnson,"GARCH(1,2)-Normal",beta[2],0.5279413023265198
+JNJ,Johnson & Johnson,"GARCH(1,2)-Normal",Persistence,0.9312391290048779
+JPM,JPMorgan Chase,"GARCH(1,2)-Student-t",mu,0.09055329364656062
+JPM,JPMorgan Chase,"GARCH(1,2)-Student-t",omega,0.06730914340100795
+JPM,JPMorgan Chase,"GARCH(1,2)-Student-t",alpha[1],0.1027952458912452
+JPM,JPMorgan Chase,"GARCH(1,2)-Student-t",beta[1],0.7466430024518416
+JPM,JPMorgan Chase,"GARCH(1,2)-Student-t",beta[2],0.12854234528202904
+JPM,JPMorgan Chase,"GARCH(1,2)-Student-t",nu,5.418910954493616
+JPM,JPMorgan Chase,"GARCH(1,2)-Student-t",Persistence,0.9779805936251158
+TSLA,Tesla,"GARCH(1,1)-Normal",mu,0.11735844391262312
+TSLA,Tesla,"GARCH(1,1)-Normal",omega,0.14495949473756675
+TSLA,Tesla,"GARCH(1,1)-Normal",alpha[1],0.03237727840509193
+TSLA,Tesla,"GARCH(1,1)-Normal",beta[1],0.955750468814436
+TSLA,Tesla,"GARCH(1,1)-Normal",Persistence,0.988127747219528
+WMT,Walmart,"GARCH(1,2)-Normal",mu,0.04976697395464965
+WMT,Walmart,"GARCH(1,2)-Normal",omega,0.23100051118298406
+WMT,Walmart,"GARCH(1,2)-Normal",alpha[1],0.16678689083127057
+WMT,Walmart,"GARCH(1,2)-Normal",beta[1],0.20634873381310184
+WMT,Walmart,"GARCH(1,2)-Normal",beta[2],0.4796095895178936
+WMT,Walmart,"GARCH(1,2)-Normal",Persistence,0.852745214162266
+XOM,Exxon Mobil,"GARCH(2,1)-Student-t",mu,0.03719477671898988
+XOM,Exxon Mobil,"GARCH(2,1)-Student-t",omega,0.013689644882161107
+XOM,Exxon Mobil,"GARCH(2,1)-Student-t",alpha[1],0.07196372238081573
+XOM,Exxon Mobil,"GARCH(2,1)-Student-t",alpha[2],5.600739507392258e-14
+XOM,Exxon Mobil,"GARCH(2,1)-Student-t",beta[1],0.9248268559518023
+XOM,Exxon Mobil,"GARCH(2,1)-Student-t",nu,6.632906918540899
+XOM,Exxon Mobil,"GARCH(2,1)-Student-t",Persistence,0.996790578332674
+^GSPC,S&P 500,"GARCH(1,1)-Student-t",mu,0.09075519308446833
+^GSPC,S&P 500,"GARCH(1,1)-Student-t",omega,0.0232623604970391
+^GSPC,S&P 500,"GARCH(1,1)-Student-t",alpha[1],0.169581804786071
+^GSPC,S&P 500,"GARCH(1,1)-Student-t",beta[1],0.822725507811961
+^GSPC,S&P 500,"GARCH(1,1)-Student-t",nu,5.531814235782959
+^GSPC,S&P 500,"GARCH(1,1)-Student-t",Persistence,0.992307312598032

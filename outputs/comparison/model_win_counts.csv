@@ -1,0 +1,7 @@
+Metric,Model,Number_of_Stock_Wins
+MAE,GARCH,1
+MAE,LSTM,5
+QLIKE,GARCH,3
+QLIKE,Random Forest,3
+RMSE,GARCH,5
+RMSE,LSTM,1

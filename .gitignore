@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# TensorFlow / Keras temporary files
+*.h5
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Large/raw data
+data/raw/
+
+# Optional live/cache data
+data/live/
+
+# Generated deployment/model binaries
+models/deployment/random_forest/*.joblib
+models/deployment/lstm/*.keras
+models/deployment/scalers/*.joblib
+
+# Other model binaries
+*.joblib
+*.keras
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+# Runtime deployment history
+outputs/deployment/refit_history.csv
+
+# Runtime live forecast history
+outputs/live/live_forecast_history.csv
